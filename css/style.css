@@ -1,0 +1,14 @@
+/*
+Author:JOMOL
+*/
+/* .clr>h2{
+    color: #00f;
+} 
+.clr~h2{
+    color:#00f;
+} */
+.clr+h2{
+    color:#00f;        
+}
+
+
